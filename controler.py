@@ -1,12 +1,10 @@
 
-
 def user_validestion(username,password):
-  if username =="him" and  password=="him":
+  if username =="user" and  password=="user":
     return True
   else:
     return False
+  
 
-
-user_validestion("him","him")
 
 
